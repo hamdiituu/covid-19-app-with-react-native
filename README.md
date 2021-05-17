@@ -11,4 +11,4 @@
 
 _**Application Screens**_
 
-![](./output/app.png)
+![](./images/app.png)
